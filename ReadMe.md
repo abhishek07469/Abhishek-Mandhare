@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Abhishek Mandhare  <br><br>👨‍💻 Electronics & Telecommunication Engineer turned Software Developer  <br>🚀 Java Full Stack & Frontend Developer  <br><br>💻 Tech Stack: Java, JSP, DAO, HTML, CSS, JavaScript  <br>⚙️ Experience in building web applications & integrating backend systems  <br><br>🌱 Currently improving skills in advanced Java & modern frontend development  <br>🤝 Open to collaborate on web development & software projects  <br><br>💬 Ask me about Java Backend, Frontend UI & Full Stack Development  <br>⚡ Focused on writing clean, efficient & scalable code
+Hi 👋 I'm Abhishek Mandhare  <br><br>👨‍💻 Electronics & Telecommunication Engineer turned Software Developer  <br>🚀 Java Full Stack & Frontend Developer  <br><br>💻 Tech Stack: Java, JSP, DAO, HTML, CSS, JavaScript  <br>⚙️ Experience in building web applications & integrating backend systems  <br><br>🌱 Currently improving skills in advanced Java & modern frontend development  <br>🤝 Open to collaborate on web development & software projects  <br><br>💬 Ask me about Java Backend, Frontend UI & Full Stack Development  <br>⚡ Focused on writing clean, efficient & scalable code.
 
 
 ## 🌐 Socials:
